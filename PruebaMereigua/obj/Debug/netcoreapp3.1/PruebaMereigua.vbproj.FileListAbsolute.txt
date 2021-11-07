@@ -1,0 +1,14 @@
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\bin\Debug\netcoreapp3.1\PruebaMereigua.exe
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\bin\Debug\netcoreapp3.1\PruebaMereigua.deps.json
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\bin\Debug\netcoreapp3.1\PruebaMereigua.runtimeconfig.json
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\bin\Debug\netcoreapp3.1\PruebaMereigua.runtimeconfig.dev.json
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\bin\Debug\netcoreapp3.1\PruebaMereigua.dll
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\bin\Debug\netcoreapp3.1\PruebaMereigua.pdb
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\obj\Debug\netcoreapp3.1\PruebaMereigua.vbproj.AssemblyReference.cache
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\obj\Debug\netcoreapp3.1\PruebaMereigua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\obj\Debug\netcoreapp3.1\PruebaMereigua.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\obj\Debug\netcoreapp3.1\PruebaMereigua.AssemblyInfo.vb
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\obj\Debug\netcoreapp3.1\PruebaMereigua.vbproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\obj\Debug\netcoreapp3.1\PruebaMereigua.dll
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\obj\Debug\netcoreapp3.1\PruebaMereigua.pdb
+C:\Users\giova\source\repos\PruebaMereigua\PruebaMereigua\obj\Debug\netcoreapp3.1\PruebaMereigua.genruntimeconfig.cache
