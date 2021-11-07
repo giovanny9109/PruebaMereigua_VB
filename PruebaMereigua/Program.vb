@@ -2,15 +2,16 @@ Imports System
 
 Module Program
 	Sub Main(args As String())
-		Dim NumberList = {1, 2, 8, 4, 5, -12}
-		'ArrayNumbers(NumberList)
-
-		revertirPalabra("hola")
-
-
 
 		Console.WriteLine("Inicio proceso")
+		Dim NumberList = {1, 2, 8, 4, 5, -12}
+
+		ArrayNumbers(NumberList)
+
+		revertirCadena("hola")
+
 		EscribirMultiplos()
+
 		Console.WriteLine("Fin proceso")
 
 
@@ -47,17 +48,11 @@ Module Program
 		Console.WriteLine("El numero mayor es {0}", value)
 	End Sub
 
-	Public Sub revertirPalabra(cadena As String)
-
-
-		Dim charArray = cadena.ToCharArray()
+	Public Sub revertirCadena(cadena As String)
 		Dim CadenaInvertida = ""
-
 		For i = cadena.Length - 1 To 0 Step -1
 			CadenaInvertida = CadenaInvertida & cadena(i)
-			'Console.WriteLine("{0}", cadena(i))
 		Next
-
 
 		Console.WriteLine("{0}", CadenaInvertida)
 	End Sub
